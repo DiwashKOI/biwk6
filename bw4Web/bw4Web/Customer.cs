@@ -7,8 +7,8 @@ namespace SydneyCoffee
         static void Main(string[] args)
         {
             // Declaring N and allocating a value
-            int n = 2;
-
+            int n = 4; //second change
+            console.WriteLine("this is the first change");
             // declaring arrays to store data
             String[] name = new string[n];
             int[] quantity = new int[n];
