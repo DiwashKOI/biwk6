@@ -1,0 +1,14 @@
+C:\Users\diwas\source\repos\bw4Web\bw4Web\bin\Debug\net8.0\bw4Web.exe
+C:\Users\diwas\source\repos\bw4Web\bw4Web\bin\Debug\net8.0\bw4Web.deps.json
+C:\Users\diwas\source\repos\bw4Web\bw4Web\bin\Debug\net8.0\bw4Web.runtimeconfig.json
+C:\Users\diwas\source\repos\bw4Web\bw4Web\bin\Debug\net8.0\bw4Web.dll
+C:\Users\diwas\source\repos\bw4Web\bw4Web\bin\Debug\net8.0\bw4Web.pdb
+C:\Users\diwas\source\repos\bw4Web\bw4Web\obj\Debug\net8.0\bw4Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diwas\source\repos\bw4Web\bw4Web\obj\Debug\net8.0\bw4Web.AssemblyInfoInputs.cache
+C:\Users\diwas\source\repos\bw4Web\bw4Web\obj\Debug\net8.0\bw4Web.AssemblyInfo.cs
+C:\Users\diwas\source\repos\bw4Web\bw4Web\obj\Debug\net8.0\bw4Web.csproj.CoreCompileInputs.cache
+C:\Users\diwas\source\repos\bw4Web\bw4Web\obj\Debug\net8.0\bw4Web.dll
+C:\Users\diwas\source\repos\bw4Web\bw4Web\obj\Debug\net8.0\refint\bw4Web.dll
+C:\Users\diwas\source\repos\bw4Web\bw4Web\obj\Debug\net8.0\bw4Web.pdb
+C:\Users\diwas\source\repos\bw4Web\bw4Web\obj\Debug\net8.0\bw4Web.genruntimeconfig.cache
+C:\Users\diwas\source\repos\bw4Web\bw4Web\obj\Debug\net8.0\ref\bw4Web.dll
